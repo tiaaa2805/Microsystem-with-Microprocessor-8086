@@ -17,4 +17,9 @@
 # 3.Software Requirements
   All programs must be written in Assembly language as subroutines. The required routines include:Initialization and programming for the 8251 and 8255 circuits.Character transmission and reception for the serial interface.Character transmission for the parallel interface.Mini-keyboard scanning routine.LED control (on/off).Hexadecimal character display for the 7-segment module.
 # 4. Documentation Structure
-     The final electronic folder must be organized as follows:Page 1: Identification details (University, Faculty, Discipline, Author, Academic Year).Page 2: Project theme.Hardware Description: 3–5 pages detailing the architecture.Software Listing: 3–7 pages of code with clear delimiters and comments.Schematics: Created using CAD software (e.g., EasyEDA, Proteus, OrCAD) in A4 or A3 format.Bibliography: Cited according to specific formatting rules.
+     The final electronic folder must be organized as follows:
+        Page 1: Identification details (University, Faculty, Discipline, Author, Academic Year).
+        Page 2: Project theme.Hardware Description: 3–5 pages detailing the architecture.
+        Software Listing: 3–7 pages of code with clear delimiters and comments.
+        Schematics: Created using CAD software (e.g., EasyEDA, Proteus, OrCAD) in A4 or A3 format.
+        Bibliography: Cited according to specific formatting rules.
