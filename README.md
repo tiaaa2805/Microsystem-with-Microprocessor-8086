@@ -1,7 +1,8 @@
 # Microsystem with Microprocessor 8086
 
 ## 1. Project Overview
-The objective of this project is to design a microsystem based on the **Intel 8086** microprocessor. The system integrates specific memory components and various I/O interfaces to handle serial/parallel communication, user input, and multi-modal data display.
+The objective of this project is to design a microsystem based on the **Intel 8086** microprocessor. The system integrates specific memory components and various I/O interfaces to handle serial/parallel communication, 
+user input, and multi-modal data display.
 
 ---
 
@@ -14,10 +15,10 @@ The architecture of the microsystem is defined by the following components:
 
 * **SRAM Memory:** 64 KB, implemented using **62256** circuits.
 
-* **Serial Interface:** * Controller: **8251**.
+* **Serial Interface:**  Controller: **8251**.
   * Addressing: Mapped to zones `04D0H – 04D2H` or `05D0H – 05D2H`, toggleable via microswitch **S1**.
 
-* **Parallel Interface:** * Controller: **8255**.
+* **Parallel Interface:**  Controller: **8255**.
   * Addressing: Mapped to zones `0250H – 0256H` or `0A50H – 0A56H`, toggleable via microswitch **S2**.
 
 * **Peripherals:**
