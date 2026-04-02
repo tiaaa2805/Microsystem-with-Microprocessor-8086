@@ -59,6 +59,3 @@ The final project folder must be submitted in electronic format and organized as
 
 * **Schematics:** Created using CAD software (EasyEDA, Proteus, DipTrace, or OrCAD) in A4 or A3 format.
 
----
-
-* **Submission:** The digital version must be uploaded to the **Virtual Campus** before the physical defense.
